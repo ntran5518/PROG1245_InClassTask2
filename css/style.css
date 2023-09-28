@@ -1,0 +1,14 @@
+/* Nini Tran */
+/* 8855518 */
+
+body {
+  height: 100vh;
+  width: 100vw;
+  background-color: hsla(280, 72%, 43%, 0.1)
+  font: normal normal normal normal 12px/1.5 Verdana, Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  color: #fc0;
+  font-size: 2rem;
+}
